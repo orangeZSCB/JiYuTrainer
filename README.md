@@ -137,19 +137,6 @@ sc delete TDFileFilter
 - [MemoryModule](https://github.com/fancycode/MemoryModule)
 - [XZip-XUnZip](https://github.com/yuanjia1011/XZip-XUnZip)
 
-其他
----
-
-这个项目大致功能目标已经完成了，<br/>
-作者也毕业要工作了，再不会去机房上课了😔，<br/>
-以后可能没有太多时间更新，所以基本除了BUG修复可能不会做大修改了。<br/>
-<br/>
-如果您有其他功能需求，可以fork项目之后自己研究开发。<br/>
-如果你想把自己开发的特殊功能放在JiYuTrainer供大家使用的话，
-你可以把功能开发完成后PullRequest让我把你的代码合并到主分支中。<br/>
-<br/>
-如果你喜欢这个项目，<br/>
-不妨推荐给你的好友吧😉
 
 许可
 ---
